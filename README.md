@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Update Linux File Permissions Demonstration</b>
-  - [Update Linux File Permissions Demonstration] (https://github.com/Hberg007/LinuxFilePermissionDemo)
+  - [Update Linux File Permissions Demonstration](https://github.com/Hberg007/LinuxFilePermissionDemo)
 - <b>Update a File with Python Algorithm Demonstration<b>
 - <b>Apply Filters to SQL Queries Demonstration<b>
 - <b>Security Audit Exercise Stakeholder Memorandum Demonstration<b>
