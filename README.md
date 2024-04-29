@@ -1,9 +1,8 @@
 <h1>Hi, I'm Jim! </h1>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Home Lab Demonstration<b>
-- <b>Update Linux File Permissions Demonstration<b>
-- <b>Update a File with Python Algorithm Demonstration<b>
+- [Active Directory Home Lab Demonstration]
+- [Update Linux File Permissions Demonstration] (https://github.com/Hberg007/LinuxFilePermissionDemo/blob/main/README.md)- <b>Update a File with Python Algorithm Demonstration<b>
 - <b>Apply Filters to SQL Queries Demonstration<b>
 - <b>Security Audit Exercise Stakeholder Memorandum Demonstration<b>
 - <b>My Incident Handler's Journal Demonstration<b> 
