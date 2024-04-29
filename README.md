@@ -10,6 +10,7 @@
  
 
 <h2>📄 Certifications</h2>
+   
   - [Google Cybersecurity Professional](https://www.credly.com/badges/00287b4b-6ea2-4620-9266-41522bc44bd1/linked_in_profile)
 
 
