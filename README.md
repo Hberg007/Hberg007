@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1>Hi, I'm Jim! </h1>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<!--
-**Hberg007/Hberg007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Active Directory Home Lab Demonstration
+- Update Linux File Permissions Demonstration
+- Update a File with Python Algorithm Demonstration
+- Apply Filters to SQL Queries Demonstration
+- Security Audit Exercise Stakeholder Memorandum Demonstration
+- My Incident Handler's Journal Demonstration 
 
-Here are some ideas to get you started:
+<h2>📄 Certifications</h2>
+-  Google Cybersecurity Professional (https://www.credly.com/badges/00287b4b-6ea2-4620-9266-41522bc44bd1/linked_in_profile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📺 Popular YouTube Videos</h2>
+
+- Active Directory Home Lab
+
+<h2> 🤳 Connect with me:</h2>
+[Linkedin]: www.linkedin.com/in/jim-huderberg-259310271
+
