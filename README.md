@@ -1,11 +1,13 @@
 <h1>Hi, I'm Jim! </h1>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
+ 
+  - [Active Directory]
   - [Update Linux File Permissions Demonstration](https://github.com/Hberg007/LinuxFilePermissionDemo)
-- <b>Update a File with Python Algorithm Demonstration<b>
-- <b>Apply Filters to SQL Queries Demonstration<b>
-- <b>Security Audit Exercise Stakeholder Memorandum Demonstration<b>
-- <b>My Incident Handler's Journal Demonstration<b> 
+  - [Update a File with Python Algorithm Demonstration]
+  - [Apply Filters to SQL Queries Demonstration]
+  - [Security Audit Exercise Stakeholder Memorandum Demonstration]
+  - [My Incident Handler's Journal Demonstration]
+ 
 
 <h2>📄 Certifications</h2>
 - <b>Google Cybersecurity Professional<b> (https://www.credly.com/badges/00287b4b-6ea2-4620-9266-41522bc44bd1/linked_in_profile)
