@@ -6,7 +6,7 @@
   - [Update a File with Python Algorithm Demonstration](https://github.com/Hberg007/UpdateFileThoughPythonDemo/tree/main)
   - [Apply Filters to SQL Queries Demonstration](https://github.com/Hberg007/SQLQueriesDemo/tree/main)
   - [Security Audit Exercise Stakeholder Memorandum Demonstration](https://github.com/Hberg007/SecurityAuditStakeholderMemorandumDemo)
-  - [My Incident Handler's Journal Demonstration]
+ 
  
 
 <h2>📄 Certifications</h2>
