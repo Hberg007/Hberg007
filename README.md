@@ -17,12 +17,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="center" alt="Jim Huderberg | LinkedIn" width="22px" src="www.linkedin.com/in/jim-huderberg-259310271" />][linkedin]
-
-
-
-
-
-[linkedin]: www.linkedin.com/in/jim-huderberg-259310271
+www.linkedin.com/in/jim-huderberg-259310271
 
 
