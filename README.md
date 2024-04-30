@@ -16,5 +16,5 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="jim-huderberg-259310271" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jim-huderberg-259310271?trk=profile-badge">Jim Huderberg</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="jim-huderberg-259310271" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jim-huderberg-259310271?trk=profile-badge">LinkedIn</a></div>
               
