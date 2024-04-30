@@ -2,6 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
  
   - [Active Directory]
+  - [Analyze Network Structure & Security]
   - [Update Linux File Permissions Demonstration](https://github.com/Hberg007/LinuxFilePermissionDemo)
   - [Update a File with Python Algorithm Demonstration](https://github.com/Hberg007/UpdateFileThoughPythonDemo/tree/main)
   - [Apply Filters to SQL Queries Demonstration](https://github.com/Hberg007/SQLQueriesDemo/tree/main)
