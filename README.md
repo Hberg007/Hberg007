@@ -23,6 +23,6 @@
 
 
 
-[linkedin]: https://linkedin.com/in/jimhuderberg
+[linkedin]: www.linkedin.com/in/jim-huderberg-259310271
 
 
