@@ -3,7 +3,7 @@
  
   - [Active Directory]
   - [Update Linux File Permissions Demonstration](https://github.com/Hberg007/LinuxFilePermissionDemo)
-  - [Update a File with Python Algorithm Demonstration]
+  - [Update a File with Python Algorithm Demonstration](https://github.com/Hberg007/UpdateFileThoughPythonDemo/tree/main)
   - [Apply Filters to SQL Queries Demonstration]
   - [Security Audit Exercise Stakeholder Memorandum Demonstration]
   - [My Incident Handler's Journal Demonstration]
